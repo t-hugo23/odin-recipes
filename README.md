@@ -1,3 +1,3 @@
 # odin-recipes
 
-Creating my project on Odin.
+Creating my first project on Recipes. 
